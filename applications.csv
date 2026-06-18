@@ -1,0 +1,4 @@
+application_id,job_id,student_id,application_status,applied_at
+1,101,1,Applied,2026-02-02
+2,101,2,Shortlisted,2026-02-03
+3,102,3,Interviewed,2026-02-04

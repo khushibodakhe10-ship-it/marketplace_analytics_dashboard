@@ -1,0 +1,5 @@
+event_id,user_type,event_name,reference_id,event_time
+1,company,company_signup,1,2026-01-01
+2,company,job_posted,101,2026-02-01
+3,student,job_viewed,101,2026-02-01
+4,student,job_applied,101,2026-02-02

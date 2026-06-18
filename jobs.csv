@@ -1,0 +1,4 @@
+job_id,company_id,job_title,location,salary,posted_at
+101,1,Data Analyst,Nagpur,450000,2026-02-01
+102,2,Python Developer,Pune,500000,2026-02-02
+103,3,Data Engineer,Mumbai,650000,2026-02-03
